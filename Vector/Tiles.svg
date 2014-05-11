@@ -58,7 +58,7 @@
 	<rect id="Gate" x="480" y="120" fill="#D4D4D4" width="40" height="40"/>
 	<circle id="Bomb_-_Defused" fill="#FF8000" cx="500" cy="100" r="15"/>
 	<circle id="Bomb" fill="#FF8000" cx="500" cy="60" r="15"/>
-	<circle id="Spike" fill="#373737" cx="500" cy="20" r="15"/>
+	<circle id="Spike" fill="#373737" cx="500" cy="20" r="14"/>
 </g>
 <g id="Blue">
 	<rect id="Team_Tile" x="600" y="160" fill="#0000FF" width="40" height="40"/>
